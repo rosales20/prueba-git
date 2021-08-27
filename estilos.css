@@ -1,0 +1,26 @@
+
+h1{
+    color: red;
+    background-color: blue;
+}
+h2{
+    color: chartreuse;
+}
+h3 {
+    color: rgb(68, 0, 255);
+}
+.not h3{
+    color: rgb(0, 7, 1);
+}
+.boton1{
+text-decoration: none;
+font-weight:  600;
+text-decoration: none;
+padding: 10px;
+font-weight: 600;
+font-size: 20px;
+color: #ffffff;
+background-color: #1883ba;
+border-radius: 6px;
+border: 2px solid #0016b0;
+}
